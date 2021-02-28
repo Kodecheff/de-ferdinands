@@ -1,0 +1,9 @@
+*{
+  font-family: 'Josefin Slab', 'Brygada 1918', serif;
+}
+body {
+  margin: 0;
+  font-family: 'Josefin Slab', 'Brygada 1918', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
